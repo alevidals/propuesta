@@ -343,6 +343,546 @@
 | **Entrega**     | v1             |
 
 
+| **R39**     | **Crear la base de datos**         |
+| --------------: | :------------------- |
+| **Descripción** | Crear la base de datos que guardará la información de usuarios, canciones, etc.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R40**     | **Añadir una canción**         |
+| --------------: | :------------------- |
+| **Descripción** | Añadir una canción que deberá cumplir las reglas SQL escritas en la base de datos.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R41**     | **Modificar una canción**         |
+| --------------: | :------------------- |
+| **Descripción** | Modificar una canción que deberá cumplir las reglas SQL escritas en la base de datos.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R42**     | **Borrar una canción**         |
+| --------------: | :------------------- |
+| **Descripción** | Borrar una canción que deberá cumplir las reglas SQL escritas en la base de datos.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R43**     | **Añadir un usuario.**         |
+| --------------: | :------------------- |
+| **Descripción** | Añadir un usuario que deberá cumplir las reglas SQL escritas en la base de datos.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R44**     | **Modificar un usuario.**         |
+| --------------: | :------------------- |
+| **Descripción** | Modificar un usuario que deberá cumplir las reglas SQL escritas en la base de datos.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R45**     | **Eliminar un usuario.**         |
+| --------------: | :------------------- |
+| **Descripción** | Eliminar un usuario que deberá cumplir las reglas SQL escritas en la base de datos.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R46**     | **Añadir la canción a Firebase.**         |
+| --------------: | :------------------- |
+| **Descripción** | Al añadir una canción, que esta sea subida al servidor de almacenamiento gratuito de Firebase.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
+
+
+| **R47**     | **Modificar la canción de Firebase.**         |
+| --------------: | :------------------- |
+| **Descripción** | Al modificar una canción, si modificamos la canción, que la anterior sea borrada de Firebase y se suba la nueva.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
+
+
+| **R48**     | **Eliminar la canción de Firebase.**         |
+| --------------: | :------------------- |
+| **Descripción** | Al eliminar una canción, que esta sea eliminada del servidor de almacenamiento gratuito de Firebase.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
+
+
+| **R49**     | **Añadir la portada de la canción a Firebase.**         |
+| --------------: | :------------------- |
+| **Descripción** | Al añadir una canción, que la portada se suba al servidor de almacenamiento gratuito de Firebase.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
+
+
+| **R50**     | **Eliminar la portada de la canción de Firebase.**         |
+| --------------: | :------------------- |
+| **Descripción** | Al eliminar una canción, que la portada sea eliminada del servidor de almacenamiento gratuito de Firebase.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
+
+
+| **R51**     | **Modificar la portada de la canción de Firebase.**         |
+| --------------: | :------------------- |
+| **Descripción** | Al modificar una canción, si modificamos la portada, que la anterior sea borrada de Firebase y se suba la nueva.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R52**     | **Registrarse**         |
+| --------------: | :------------------- |
+| **Descripción** | Dar la oportunidad al usuario de registrarse en la aplicación almacenando dichos datos en la base de datos.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
+
+
+| **R53**     | **Iniciar sesión**         |
+| --------------: | :------------------- |
+| **Descripción** | Iniciar sesión como un usuario registrado en la aplicación.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R54**     | **Cerrar sesión**         |
+| --------------: | :------------------- |
+| **Descripción** | Cerrar sesión del usuario logueado en este momento.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R55**     | **Modificar perfil de usuario.**         |
+| --------------: | :------------------- |
+| **Descripción** | Modificar el perfil del usuario logueado en este momento.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R56**     | **Añadir imagen de perfil.**         |
+| --------------: | :------------------- |
+| **Descripción** | Añadir una imagen al perfil que será guardada en el servidor de almacenamiento gratuito de Firebase.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
+
+
+| **R57**     | **Modificar imagen de perfil.**         |
+| --------------: | :------------------- |
+| **Descripción** | Modificar la imagen de perfil que será guardada en el servidor de almacenamiento gratuito de Firebase sustituyendo a la anterior.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
+
+
+| **R58**     | **Eliminar imagen de perfil.**         |
+| --------------: | :------------------- |
+| **Descripción** | Eliminar una imagen del perfil, que a su vez será borrada del servidor de almacenamiento de Firebase.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
+
+
+| **R59**     | **Buscar usuarios**         |
+| --------------: | :------------------- |
+| **Descripción** | Buscar a los demás usuarios.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R60**     | **Buscar usuarios por nombre.**         |
+| --------------: | :------------------- |
+| **Descripción** | Buscar usuarios por su nombre.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R61**     | **Buscar usuarios por su email.**         |
+| --------------: | :------------------- |
+| **Descripción** | Buscar usuarios por su email.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R62**     | **Ver a un usuario.**         |
+| --------------: | :------------------- |
+| **Descripción** | Visualizar el perfil de un usuario.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R63**     | **Darse de baja de la aplicación.**         |
+| --------------: | :------------------- |
+| **Descripción** | Eliminar la cuenta del usuario.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R64**     | **Buscar canciones**         |
+| --------------: | :------------------- |
+| **Descripción** | Buscar canciones subidas por los demás.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R65**     | **Buscar canciones por título.**         |
+| --------------: | :------------------- |
+| **Descripción** | Buscar canciones por título.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R66**     | **Buscar canciones por usuario/artista.**         |
+| --------------: | :------------------- |
+| **Descripción** | Buscar canciones por usuario/artista.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R67**     | **Seguir a un usuario.**         |
+| --------------: | :------------------- |
+| **Descripción** | Seguir a un usuario estando logueado en una cuenta.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v2             |
+
+
+| **R68**     | **Dejar de seguir a un usuario.**         |
+| --------------: | :------------------- |
+| **Descripción** | Dejar de seguir a un usuario que ya sigamos estando logueado en una cuenta.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v2             |
+
+
+| **R69**     | **Ser seguido por otro usuario.**         |
+| --------------: | :------------------- |
+| **Descripción** | La posibilidad de ser seguido por otro usuario.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v2             |
+
+
+| **R70**     | **Dejar de ser seguido**         |
+| --------------: | :------------------- |
+| **Descripción** | Dejar de ser seguido por otro usuario.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v2             |
+
+
+| **R71**     | **Ver lista de seguidores.**         |
+| --------------: | :------------------- |
+| **Descripción** | Desde el perfil poder ver la lista de los usuarios que nos siguen.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R72**     | **Ver lista de seguidos.**         |
+| --------------: | :------------------- |
+| **Descripción** | Desde el perfil poder ver la lista de usuarios que seguimos.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R73**     | **Dar like a una canción.**         |
+| --------------: | :------------------- |
+| **Descripción** | Dar like a una canción estando logueado.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R74**     | **Quitar like a una canción.**         |
+| --------------: | :------------------- |
+| **Descripción** | Quitar like a una canción que le hayamos dado like estando logueado.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R75**     | **Comentar en una canción.**         |
+| --------------: | :------------------- |
+| **Descripción** | Comentar en una canción estando logueado.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R76**     | **Quitar un comentario de una canción.**         |
+| --------------: | :------------------- |
+| **Descripción** | Quitar comentario de una canción en la que hayamos comentado estando logueado.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R77**     | **Escuchar canciones.**         |
+| --------------: | :------------------- |
+| **Descripción** | Poder escuchar las canciones de los demás artistas/usuarios.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R78**     | **Descargar una canción**         |
+| --------------: | :------------------- |
+| **Descripción** | Dar la posibilidad de descargar una canción.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R79**     | **Ordenar el resultado de la búsqueda por género.**         |
+| --------------: | :------------------- |
+| **Descripción** | Poder ordenar el resultado de la búsqueda por el género de la canción.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R80**     | **Ordenar el resultado de la búsqueda por usuario/artista.**         |
+| --------------: | :------------------- |
+| **Descripción** | Poder ordenar el resultado de la búsqueda por el usuario/artista de la canción.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R81**     | **Ordenar el resultado de la búsqueda por likes.**         |
+| --------------: | :------------------- |
+| **Descripción** | Poder ordenar el resultado de la búsqueda por los likes de las canciones.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R82**     | **Cuenta admin.**         |
+| --------------: | :------------------- |
+| **Descripción** | Cuenta de administrador que podrá acceder al panel de administración donde tendrá el listado de usuarios, canciones, géneros, etc.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R83**     | **Visualizar canciones de un perfil.**         |
+| --------------: | :------------------- |
+| **Descripción** | Poder ver el listado de canciones de un usuario visitando su perfil.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R84**     | **Bloquear a un usuario.**         |
+| --------------: | :------------------- |
+| **Descripción** | Bloquear a un usuario de modo que no podrá ni visualizar nuestro perfil ni seguirnos.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
+| **R85**     | **Chat en tiempo real**         |
+| --------------: | :------------------- |
+| **Descripción** | Chat en tiempo real con los demás usuarios haciendo uso del módulo de chat.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
+| **R86**     | **Añadir imagen de banner al perfil.**         |
+| --------------: | :------------------- |
+| **Descripción** | Añadir una imagen de banner al perfil que será guardada en el servidor de almacenamiento gratuito de Firebase.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v3             |
+
+
+| **R87**     | **Modificar imagen de banner al perfil.**         |
+| --------------: | :------------------- |
+| **Descripción** | Modificar una imagen de banner del perfil que será guardada en el servidor de almacenamiento gratuito de Firebase eliminándose la anterior.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v3             |
+
+
+| **R88**     | **Eliminar imagen de banner al perfil.**         |
+| --------------: | :------------------- |
+| **Descripción** | Eliminar la imagen de banner del perfil que será a su vez eliminada del servidor de almacenamiento gratuito de Firebase.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v3             |
+
+
+| **R89**     | **Poder recuperar la cuenta del usuario.**         |
+| --------------: | :------------------- |
+| **Descripción** | Posibilidad de recuperar una cuenta que ha sido eliminada.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v3             |
+
+
+| **R90**     | **Cambiar contraseña**         |
+| --------------: | :------------------- |
+| **Descripción** | Posibilidad de cambiar una contraseña que ha sido olvidada.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v3             |
+
+
+| **R91**     | **Ver lista de likes.**         |
+| --------------: | :------------------- |
+| **Descripción** | Ver lista de likes de una canción.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
+| **R92**     | **Crear playlist.**         |
+| --------------: | :------------------- |
+| **Descripción** | Crear playlist de canciones.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
+| **R93**     | **Añadir canción a cola de reproducción.**         |
+| --------------: | :------------------- |
+| **Descripción** | Poder agregar una canción a la cola para cuando la canción actual deje de reproducirse se reproduzca esta.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
+| **R94**     | **Foto de perfil con dimensiones y extensión fijada.**         |
+| --------------: | :------------------- |
+| **Descripción** | La foto a subir en el perfil debe cumplir unos requisitos de dimensiones y extensión.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v3             |
+
+
+| **R95**     | **Foto de banner del perfil con dimensiones y extensión fijada.**         |
+| --------------: | :------------------- |
+| **Descripción** | La foto a subir para el banner del perfil debe cumplir unos requisitos de dimensiones y extensión.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v3             |
+
+
+| **R96**     | **Modo claro/oscuro**         |
+| --------------: | :------------------- |
+| **Descripción** | Poder cambiar entre modo claro y oscuro.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v3             |
+
+
+| **R97**     | **Notificar al usuario.**         |
+| --------------: | :------------------- |
+| **Descripción** | Notificar al usuario cuando le sigan.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v3             |
+
+
+| **R98**     | **Agregar el link de un videoclip a la canción.**         |
+| --------------: | :------------------- |
+| **Descripción** | Agregar el link de un videoclip a la canción el cual podrá visualizarse en el perfil del usuario.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v3             |
+
+
 
 ## Cuadro resumen
 
@@ -386,3 +926,63 @@
 | (**R36**) Varios navegadores | Mínimo | Técnico | Fácil | v1 | 
 | (**R37**) Despliegue en un Host | Mínimo | Técnico | Fácil | v1 | 
 | (**R38**) Despliegue en un servidor local | Mínimo | Técnico | Fácil | v1 | 
+| (**R39**) Crear la base de datos | Importante | Información | Fácil | v1 | 
+| (**R40**) Añadir una canción | Importante | Funcional | Fácil | v1 | 
+| (**R41**) Modificar una canción | Importante | Funcional | Fácil | v1 | 
+| (**R42**) Borrar una canción | Importante | Funcional | Fácil | v1 | 
+| (**R43**) Añadir un usuario. | Importante | Funcional | Fácil | v1 | 
+| (**R44**) Modificar un usuario. | Importante | Funcional | Fácil | v1 | 
+| (**R45**) Eliminar un usuario. | Importante | Funcional | Fácil | v1 | 
+| (**R46**) Añadir la canción a Firebase. | Importante | Funcional | Media | v1 | 
+| (**R47**) Modificar la canción de Firebase. | Importante | Funcional | Media | v1 | 
+| (**R48**) Eliminar la canción de Firebase. | Importante | Funcional | Media | v1 | 
+| (**R49**) Añadir la portada de la canción a Firebase. | Importante | Funcional | Media | v1 | 
+| (**R50**) Eliminar la portada de la canción de Firebase. | Importante | Funcional | Media | v1 | 
+| (**R51**) Modificar la portada de la canción de Firebase. | Importante | Funcional | Fácil | v1 | 
+| (**R52**) Registrarse | Importante | Funcional | Media | v1 | 
+| (**R53**) Iniciar sesión | Importante | Funcional | Fácil | v1 | 
+| (**R54**) Cerrar sesión | Importante | Funcional | Fácil | v1 | 
+| (**R55**) Modificar perfil de usuario. | Importante | Funcional | Fácil | v1 | 
+| (**R56**) Añadir imagen de perfil. | Importante | Funcional | Media | v1 | 
+| (**R57**) Modificar imagen de perfil. | Opcional | Funcional | Media | v1 | 
+| (**R58**) Eliminar imagen de perfil. | Opcional | Funcional | Media | v1 | 
+| (**R59**) Buscar usuarios | Importante | Funcional | Fácil | v1 | 
+| (**R60**) Buscar usuarios por nombre. | Importante | Funcional | Fácil | v1 | 
+| (**R61**) Buscar usuarios por su email. | Importante | Funcional | Fácil | v1 | 
+| (**R62**) Ver a un usuario. | Importante | Funcional | Fácil | v1 | 
+| (**R63**) Darse de baja de la aplicación. | Importante | Funcional | Fácil | v1 | 
+| (**R64**) Buscar canciones | Importante | Funcional | Fácil | v1 | 
+| (**R65**) Buscar canciones por título. | Importante | Funcional | Fácil | v1 | 
+| (**R66**) Buscar canciones por usuario/artista. | Importante | Funcional | Fácil | v1 | 
+| (**R67**) Seguir a un usuario. | Importante | Funcional | Difícil | v2 | 
+| (**R68**) Dejar de seguir a un usuario. | Importante | Funcional | Difícil | v2 | 
+| (**R69**) Ser seguido por otro usuario. | Importante | Funcional | Difícil | v2 | 
+| (**R70**) Dejar de ser seguido | Importante | Funcional | Difícil | v2 | 
+| (**R71**) Ver lista de seguidores. | Importante | Funcional | Media | v2 | 
+| (**R72**) Ver lista de seguidos. | Importante | Funcional | Media | v2 | 
+| (**R73**) Dar like a una canción. | Importante | Funcional | Media | v2 | 
+| (**R74**) Quitar like a una canción. | Importante | Funcional | Media | v2 | 
+| (**R75**) Comentar en una canción. | Importante | Funcional | Media | v2 | 
+| (**R76**) Quitar un comentario de una canción. | Importante | Funcional | Media | v2 | 
+| (**R77**) Escuchar canciones. | Importante | Funcional | Media | v2 | 
+| (**R78**) Descargar una canción | Importante | Funcional | Fácil | v2 | 
+| (**R79**) Ordenar el resultado de la búsqueda por género. | Importante | Funcional | Media | v2 | 
+| (**R80**) Ordenar el resultado de la búsqueda por usuario/artista. | Importante | Funcional | Media | v2 | 
+| (**R81**) Ordenar el resultado de la búsqueda por likes. | Importante | Funcional | Media | v2 | 
+| (**R82**) Cuenta admin. | Importante | Funcional | Media | v2 | 
+| (**R83**) Visualizar canciones de un perfil. | Importante | Funcional | Media | v2 | 
+| (**R84**) Bloquear a un usuario. | Importante | Funcional | Difícil | v3 | 
+| (**R85**) Chat en tiempo real | Importante | Funcional | Difícil | v3 | 
+| (**R86**) Añadir imagen de banner al perfil. | Opcional | Funcional | Media | v3 | 
+| (**R87**) Modificar imagen de banner al perfil. | Opcional | Funcional | Media | v3 | 
+| (**R88**) Eliminar imagen de banner al perfil. | Opcional | Funcional | Media | v3 | 
+| (**R89**) Poder recuperar la cuenta del usuario. | Opcional | Funcional | Media | v3 | 
+| (**R90**) Cambiar contraseña | Opcional | Funcional | Media | v3 | 
+| (**R91**) Ver lista de likes. | Opcional | Funcional | Difícil | v3 | 
+| (**R92**) Crear playlist. | Opcional | Funcional | Difícil | v3 | 
+| (**R93**) Añadir canción a cola de reproducción. | Opcional | Funcional | Difícil | v3 | 
+| (**R94**) Foto de perfil con dimensiones y extensión fijada. | Opcional | Funcional | Media | v3 | 
+| (**R95**) Foto de banner del perfil con dimensiones y extensión fijada. | Opcional | Funcional | Media | v3 | 
+| (**R96**) Modo claro/oscuro | Opcional | Funcional | Media | v3 | 
+| (**R97**) Notificar al usuario. | Opcional | Funcional | Media | v3 | 
+| (**R98**) Agregar el link de un videoclip a la canción. | Opcional | Funcional | Media | v3 | 
