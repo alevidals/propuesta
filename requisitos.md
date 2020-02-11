@@ -766,7 +766,7 @@
 | **Entrega**     | v3             |
 
 
-| **R86**     | **Chat en tiempo real**         |
+| **R86**     | **Chat en tiempo real.**         |
 | --------------: | :------------------- |
 | **Descripción** | Chat en tiempo real con los demás usuarios haciendo uso del módulo de chat.             |
 | **Prioridad**   | Importante           |
@@ -775,7 +775,16 @@
 | **Entrega**     | v3             |
 
 
-| **R87**     | **Añadir imagen de banner al perfil.**         |
+| **R87**     | **Multilenguaje.**         |
+| --------------: | :------------------- |
+| **Descripción** | La página tendrá dos idiomas, Español e Inglés.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Técnico                |
+| **Complejidad** | Media         |
+| **Entrega**     | v3             |
+
+
+| **R88**     | **Añadir imagen de banner al perfil.**         |
 | --------------: | :------------------- |
 | **Descripción** | Añadir una imagen de banner al perfil que será guardada en el servidor de almacenamiento gratuito de Firebase.             |
 | **Prioridad**   | Opcional           |
@@ -784,7 +793,7 @@
 | **Entrega**     | v3             |
 
 
-| **R88**     | **Modificar imagen de banner al perfil.**         |
+| **R89**     | **Modificar imagen de banner al perfil.**         |
 | --------------: | :------------------- |
 | **Descripción** | Modificar una imagen de banner del perfil que será guardada en el servidor de almacenamiento gratuito de Firebase eliminándose la anterior.             |
 | **Prioridad**   | Opcional           |
@@ -793,7 +802,7 @@
 | **Entrega**     | v3             |
 
 
-| **R89**     | **Eliminar imagen de banner al perfil.**         |
+| **R90**     | **Eliminar imagen de banner al perfil.**         |
 | --------------: | :------------------- |
 | **Descripción** | Eliminar la imagen de banner del perfil que será a su vez eliminada del servidor de almacenamiento gratuito de Firebase.             |
 | **Prioridad**   | Opcional           |
@@ -802,7 +811,7 @@
 | **Entrega**     | v3             |
 
 
-| **R90**     | **Poder recuperar la cuenta del usuario.**         |
+| **R91**     | **Poder recuperar la cuenta del usuario.**         |
 | --------------: | :------------------- |
 | **Descripción** | Posibilidad de recuperar una cuenta que ha sido eliminada.             |
 | **Prioridad**   | Opcional           |
@@ -811,7 +820,7 @@
 | **Entrega**     | v3             |
 
 
-| **R91**     | **Cambiar contraseña**         |
+| **R92**     | **Cambiar contraseña**         |
 | --------------: | :------------------- |
 | **Descripción** | Posibilidad de cambiar una contraseña que ha sido olvidada.             |
 | **Prioridad**   | Opcional           |
@@ -820,7 +829,7 @@
 | **Entrega**     | v3             |
 
 
-| **R92**     | **Ver lista de likes.**         |
+| **R93**     | **Ver lista de likes.**         |
 | --------------: | :------------------- |
 | **Descripción** | Ver lista de likes de una canción.             |
 | **Prioridad**   | Opcional           |
@@ -829,7 +838,7 @@
 | **Entrega**     | v3             |
 
 
-| **R93**     | **Crear playlist.**         |
+| **R94**     | **Crear playlist.**         |
 | --------------: | :------------------- |
 | **Descripción** | Crear playlist de canciones.             |
 | **Prioridad**   | Opcional           |
@@ -838,7 +847,7 @@
 | **Entrega**     | v3             |
 
 
-| **R94**     | **Añadir canción a cola de reproducción.**         |
+| **R95**     | **Añadir canción a cola de reproducción.**         |
 | --------------: | :------------------- |
 | **Descripción** | Poder agregar una canción a la cola para cuando la canción actual deje de reproducirse se reproduzca esta.             |
 | **Prioridad**   | Opcional           |
@@ -847,7 +856,7 @@
 | **Entrega**     | v3             |
 
 
-| **R95**     | **Foto de perfil con dimensiones y extensión fijada.**         |
+| **R96**     | **Foto de perfil con dimensiones y extensión fijada.**         |
 | --------------: | :------------------- |
 | **Descripción** | La foto a subir en el perfil debe cumplir unos requisitos de dimensiones y extensión.             |
 | **Prioridad**   | Opcional           |
@@ -856,7 +865,7 @@
 | **Entrega**     | v3             |
 
 
-| **R96**     | **Foto de banner del perfil con dimensiones y extensión fijada.**         |
+| **R97**     | **Foto de banner del perfil con dimensiones y extensión fijada.**         |
 | --------------: | :------------------- |
 | **Descripción** | La foto a subir para el banner del perfil debe cumplir unos requisitos de dimensiones y extensión.             |
 | **Prioridad**   | Opcional           |
@@ -865,7 +874,7 @@
 | **Entrega**     | v3             |
 
 
-| **R97**     | **Modo claro/oscuro**         |
+| **R98**     | **Modo claro/oscuro**         |
 | --------------: | :------------------- |
 | **Descripción** | Poder cambiar entre modo claro y oscuro.             |
 | **Prioridad**   | Opcional           |
@@ -874,7 +883,7 @@
 | **Entrega**     | v3             |
 
 
-| **R98**     | **Notificar al usuario.**         |
+| **R99**     | **Notificar al usuario.**         |
 | --------------: | :------------------- |
 | **Descripción** | Notificar al usuario cuando le sigan.             |
 | **Prioridad**   | Opcional           |
@@ -883,7 +892,7 @@
 | **Entrega**     | v3             |
 
 
-| **R99**     | **Agregar el link de un videoclip a la canción.**         |
+| **R100**     | **Agregar el link de un videoclip a la canción.**         |
 | --------------: | :------------------- |
 | **Descripción** | Agregar el link de un videoclip a la canción el cual podrá visualizarse en el perfil del usuario.             |
 | **Prioridad**   | Opcional           |
@@ -982,17 +991,18 @@
 | (**R83**) Cuenta admin. | Importante | Funcional | Media | v2 | 
 | (**R84**) Visualizar canciones de un perfil. | Importante | Funcional | Media | v2 | 
 | (**R85**) Bloquear a un usuario. | Importante | Funcional | Difícil | v3 | 
-| (**R86**) Chat en tiempo real | Importante | Técnico | Difícil | v3 | 
-| (**R87**) Añadir imagen de banner al perfil. | Opcional | Funcional | Media | v3 | 
-| (**R88**) Modificar imagen de banner al perfil. | Opcional | Funcional | Media | v3 | 
-| (**R89**) Eliminar imagen de banner al perfil. | Opcional | Funcional | Media | v3 | 
-| (**R90**) Poder recuperar la cuenta del usuario. | Opcional | Funcional | Media | v3 | 
-| (**R91**) Cambiar contraseña | Opcional | Funcional | Media | v3 | 
-| (**R92**) Ver lista de likes. | Opcional | Funcional | Difícil | v3 | 
-| (**R93**) Crear playlist. | Opcional | Funcional | Difícil | v3 | 
-| (**R94**) Añadir canción a cola de reproducción. | Opcional | Funcional | Difícil | v3 | 
-| (**R95**) Foto de perfil con dimensiones y extensión fijada. | Opcional | Funcional | Media | v3 | 
-| (**R96**) Foto de banner del perfil con dimensiones y extensión fijada. | Opcional | Funcional | Media | v3 | 
-| (**R97**) Modo claro/oscuro | Opcional | Funcional | Media | v3 | 
-| (**R98**) Notificar al usuario. | Opcional | Funcional | Media | v3 | 
-| (**R99**) Agregar el link de un videoclip a la canción. | Opcional | Funcional | Media | v3 | 
+| (**R86**) Chat en tiempo real. | Importante | Técnico | Difícil | v3 | 
+| (**R87**) Multilenguaje. | Importante | Técnico | Media | v3 | 
+| (**R88**) Añadir imagen de banner al perfil. | Opcional | Funcional | Media | v3 | 
+| (**R89**) Modificar imagen de banner al perfil. | Opcional | Funcional | Media | v3 | 
+| (**R90**) Eliminar imagen de banner al perfil. | Opcional | Funcional | Media | v3 | 
+| (**R91**) Poder recuperar la cuenta del usuario. | Opcional | Funcional | Media | v3 | 
+| (**R92**) Cambiar contraseña | Opcional | Funcional | Media | v3 | 
+| (**R93**) Ver lista de likes. | Opcional | Funcional | Difícil | v3 | 
+| (**R94**) Crear playlist. | Opcional | Funcional | Difícil | v3 | 
+| (**R95**) Añadir canción a cola de reproducción. | Opcional | Funcional | Difícil | v3 | 
+| (**R96**) Foto de perfil con dimensiones y extensión fijada. | Opcional | Funcional | Media | v3 | 
+| (**R97**) Foto de banner del perfil con dimensiones y extensión fijada. | Opcional | Funcional | Media | v3 | 
+| (**R98**) Modo claro/oscuro | Opcional | Funcional | Media | v3 | 
+| (**R99**) Notificar al usuario. | Opcional | Funcional | Media | v3 | 
+| (**R100**) Agregar el link de un videoclip a la canción. | Opcional | Funcional | Media | v3 | 
