@@ -8,10 +8,10 @@ Mus!c Now será un proyecto basado en el líder en reproducción de música vía
 
 ## Funcionalidad principal de la aplicación
 
-Esta aplicación permitirá a los usuarios registrarse y loguearse en la aplicación. Dichos usuarios podrán subir sus canciones que podrán ser reproducidas por otros usuarios de modo que los artistas pueden darse a conocer en el mundo de la música y de Internet. Los usuarios podrán darle like a las canciones e incluso comentar en caso de que quieran dejar su opinión acerca de ella.
+Esta aplicación permitirá a los usuarios registrarse y loguearse en la aplicación. Dichos usuarios podrán subir sus canciones que podrán ser reproducidas por otros usuarios de modo que los artistas pueden darse a conocer en el mundo de la música y de Internet. Los usuarios podrán darle like a las canciones e incluso comentar en caso de que quieran dejar su opinión acerca de ellas.
 Los usuarios podrán seguir a otros usuarios y también podrán ser seguidos, esto podrá ser visualizado desde el perfil de usuario (seguidores y seguidos).
 
-Mus!c Now tendrá un panel de administrador al cual solo los administradores podrán acceder a él. Desde este panel podrán administrar todo,  usuarios, canciones, géneros, etc.
+Mus!c Now tendrá un panel de administrador al cual solo los administradores podrán acceder a él. Desde este panel podrán administrar: usuarios, canciones, géneros, etc.
 
 ## Objetivos generales
 
